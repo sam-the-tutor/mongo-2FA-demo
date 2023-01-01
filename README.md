@@ -1,10 +1,12 @@
-# Node.js-Register-Login-App
+# :heart:  Node.js-Register-Login-2FA-App. :heart:
 
-This is a user login and registration app using Node.js, Express, Mongoose, EJS and express-sessions.
+This is a user login and registration app using Node.js, Express, Mongoose, EJS and express-sessions to implement 2FA.
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. :heart:
+Create an account and login to access the processes running on your computer.
+2FA is implemented by sending an OTP to your phone number.
+Once the phone number is verified,a user can create or delete folders and files from tne computer.
 
 ### Prerequisites
 
@@ -21,7 +23,7 @@ nodemon server.js
 ```
 
 Code is Running on 
-+ http://localhost:3000/
++ http://localhost:4000/
 
 ### To checkout live
 <a href="https://nodejs-register-login-app.herokuapp.com" target="_blank">https://nodejs-register-login-app.herokuapp.com</a>
@@ -29,4 +31,4 @@ Code is Running on
 ### Do not forget to leave a star! :hugs:
 
 :heart_eyes: Thanks
-# mongo-2FA-demo
+
